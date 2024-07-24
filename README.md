@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Dev<br>try to learn<br>never stop to think<br>believe in your dream
+Saya merupakan lulusan dari SMK Tunas media dengan kejuruan Rekaya Perangkat Lunak (RPL) yang telah di sertifikasi oleh Lembaga Sertifikasi Profesi (LSP). Memiliki pengalaman lebih dari 1 tahun dalam pengembangan web, pengembangan backend. Saya juga memiliki pengalaman di beberapa database Mysql, Postgres. Dan memiliki kepribadian yang senang jika mendapatkan study kasus baru tentang web development, bahasa pemrograman, dan logika dengan kemampuan tersebut saya akan berkontribusi dengan perusahaan ini.
 
 
 
